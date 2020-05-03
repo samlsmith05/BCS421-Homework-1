@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Samantha Smith Schedule</string>
+    <string name="myName">Samantha Smith</string>
+    <string name="headerName">Name</string>
+    <string name="headerClassSchedule">Class Schedule</string>
+    <string name="class1">BCS 421 MW 9:25am - 10:40am</string>
+    <string name="class2">MTH 390 MW 10:50am - 12:05pm</string>
+    <string name="class3">PSY 315 MW 12:15pm - 1:30pm</string>
+    <string name="class4">BCS 360 TR 12:15pm - 1:30pm</string>
+    <string name="class5">BCS 378 MW 3:05pm - 4:20pm</string>
+    <string name="class6">EGL 212 TR 1:40pm - 2:55pm</string>
+    <string name="headerWorkSchedule">Work Schedule</string>
+    <string name="work1">F 5:30pm - 11:30pm</string>
+    <string name="work2">S 12:00pm - 5:00pm</string>
+    <string name="headerCredits">Credits</string>
+    <string name="credits">18</string>
+    <string name="headerStudyHours">Optimal Study Hours</string>
+    <string name="hours">36</string>
+    <string name="buttonCredits">CREDITS</string>
+    <string name="buttonStudyHours">STUDY HOURS</string>
+
+</resources>
